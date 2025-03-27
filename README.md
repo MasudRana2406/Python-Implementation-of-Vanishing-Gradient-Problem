@@ -1,5 +1,7 @@
 **Python-Implementation-of-Vanishing-Gradient-Problem**
+
 **Overview**
+
 This repository contains practical example of Vanishing Gradient Problem in Recurrent Neural Networks (RNNs) and how Long Short-Term Memory (LSTM) networks help to mitigate this issue.
 
 I have created a sample text data , then I convert text to numerical token to feed into machine learning model
@@ -7,6 +9,7 @@ I have created a sample text data , then I convert text to numerical token to fe
 Afterthat I have created two model RNNs & LSTM , where we can see  difference between gradient behaviour of two model.
 
 **Installation** 
+
 Clone the repository:  
 git clone https://github.com/MasudRana2406/Python-Implementation-of-Vanishing-Gradient-Problem.git
 
@@ -20,5 +23,5 @@ Pull requests are welcome! Please follow these steps:
 
 
 ## License  
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ file for details.
 
