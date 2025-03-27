@@ -22,6 +22,6 @@ Pull requests are welcome! Please follow these steps:
 5. Open a Pull Request
 
 
-## License  
+**License**
 This project is licensed under the Apache License Version 2.0, January 2004 http://www.apache.org/licenses/ file for details.
 
